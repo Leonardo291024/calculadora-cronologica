@@ -1,0 +1,24 @@
+.container{
+    width: 40%;
+    min-width: 640px;
+}
+
+.container-inputs{
+    width: 60%;
+    margin: 0;
+    margin-left: 30px;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.resultado{
+    width: 80%;
+}
+
+.resultado button{
+    width: 80px;
+    height: 80px;
+    top: -40px;
+    left: calc(90% - 30px);
+    background-color: black;
+}
